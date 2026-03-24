@@ -1,1 +1,2 @@
-# git-practice
+# My Project
+- Git PR туршилт
